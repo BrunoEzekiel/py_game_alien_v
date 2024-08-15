@@ -1,0 +1,30 @@
+# Ignorar o ambiente virtual
+venv/
+.env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.pyc
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Diretórios de IDE (caso uses uma)
+.vscode/
+.idea/
+
+# Arquivos de configuração locais
+*.env
+.env
+.DS_Store
+*.swp
+
+# Arquivos de compilação
+build/
+dist/
+*.egg-info/
